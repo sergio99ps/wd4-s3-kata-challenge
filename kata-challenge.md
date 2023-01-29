@@ -1,4 +1,4 @@
-¡Llega el turno de poner todo lo aprendido esta semana! 
+¡Llega el turno de practicar todo lo aprendido esta semana! 
 
 En esta ocasión, vamos a focalizarnos exclusivamente en Javascript, para seguir asentando las bases de todo lo aprendido, así que vamos a enfrentarnos a una competición de Katas.
 
