@@ -81,7 +81,7 @@ La idea de una kata es un ejercicio corto que nos ayuda a aprender funcionalidad
 	Ejemplo: 
 		Recibe: 
 			([['Cristiano', 'Messi'], ['Neymar', 'Mbappe', Benzema'], 
-			['Vinicius', 'Kane'])  
+			['Vinicius', 'Kane']])  
 		Devuelve: 
 			['Benzema', 'Cristiano', 'Kane', 'Mbappe', 'Messi', 
 			'Neymar', 'Vinicius']
